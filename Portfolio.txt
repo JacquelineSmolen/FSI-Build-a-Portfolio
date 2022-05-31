@@ -1,0 +1,20 @@
+<div>
+   <h1>Amy/Jacqueline/Karina/Hadia</h1>
+   <h2>Software Developer</h2>
+   <hr>
+   <p>My<i>favorite</i>things about programming is continuous learrning through teamwork.</p>
+ <h3>About me</h3>
+ <p>Lorem Ipsum, sometimes referred to as 'lipsum', is the placeholder text used in design when creating content. It helps designers plan out where the content will sit, without needing to wait for the content to be written and approved. It originally comes from a Latin text, but to today's reader, it's seen as gibberish.</p>
+ <h3>My Projects</h3>
+   <ul>
+     <li>Project1</li>
+     <li>Project2</li>
+     <li>Project3</li>
+     </ul>
+ <h3>Contact Me</h3>
+ <p><b>Phone:</b>347-449-0092</p>
+<a
+herf="mailto:abc.123@gmail.com">abc.123@email.com </a>
+</div>
+  </body>
+</html>
